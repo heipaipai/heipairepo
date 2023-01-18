@@ -12,7 +12,7 @@ And this is a common paragraph again.
 
 Double enters for a new paragraph.
 
-[[This is a link](link source)](https://github.com/heipaipai)
+[[link text](link source)](https://github.com/heipaipai)
 
 This is a picture
 
