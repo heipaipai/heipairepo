@@ -12,4 +12,10 @@ And this is a common paragraph again.
 
 Double enters for a new paragraph.
 
-![alt text](image source) for a picture
+This is a link
+
+        [link text](link source)
+
+This is a picture
+
+![screenshot of the command](screenshot.png)
