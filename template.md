@@ -17,6 +17,23 @@ Using a Windows 10 OS on a Lenovo Thinkpad Yoga 12.
 <a name="summarize"></a>
 ## Summarize texts
 
+Common text for paragraph.
+
+        Four tabs for code stuff
+   
+And this is a common paragraph again.
+
+Single underscores _ or single stars * around an _italic_,
+and double underscores __ or stars ** for **bold**.
+* Single star in front for a bullet
+   * Tabs + single star in front for a sub-bullet
+
+Double enters for a new paragraph.
+
+[[link text](link source)](https://github.com/heipaipai)
+
+![screenshot](https://user-images.githubusercontent.com/55014633/216152163-4a23986b-c8b3-4211-828b-30926d6907c9.png)
+
 <a name="task"></a>
 ## Task
 
