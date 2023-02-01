@@ -13,7 +13,7 @@ Author: [Heidi Paimen](mailto:heidi.paimen@gmail.com)
 * [Oracle VM VirtualBox Manager 7.0.6](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 * [Debian 11.6.0 Bullseye amd64 xfce nonfree ISO](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/)
 * ufw 0.36-7.1
-* WebGoat 8.0?
+* [WebGoat 8.0.0.M26 (Note: link begins downloading!)](https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar)
 
 Project status: incomplete, in progress.
 
