@@ -2,7 +2,8 @@
 
 This is a repository created for the [Haaga-Helia UAS](https://www.haaga-helia.fi/en) spring 2023 course [Information Security](https://terokarvinen.com/2023/information-security-2023/) by teacher [Tero Karvinen](https://terokarvinen.com/).
 
-Tasks can be found in the [Information Security course](https://terokarvinen.com/2023/information-security-2023/?f=moodle#homework).
+Tasks can be found in the [Information Security course website](https://terokarvinen.com/2023/information-security-2023/?f=moodle#homework).
+Sources used will be linked in the bottom of each task.
 
 Author: Heidi Paimen,
 using a Windows 10 OS on a Lenovo Thinkpad Yoga 12.
