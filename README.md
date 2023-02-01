@@ -12,7 +12,7 @@ Author: [Heidi Paimen](mailto:heidi.paimen@gmail.com)
 * Windows 10 OS on a Lenovo Thinkpad Yoga 12
 * [Oracle VM VirtualBox Manager 7.0.6](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 * [Debian 11.6.0 Bullseye amd64 xfce nonfree ISO](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/)
-* ufw
+* ufw 0.36-7.1
 * WebGoat 8.0?
 
 Project status: incomplete, in progress.
