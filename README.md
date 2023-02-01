@@ -5,8 +5,15 @@ This is a repository created for the [Haaga-Helia UAS](https://www.haaga-helia.f
 Tasks can be found in the [Information Security course website](https://terokarvinen.com/2023/information-security-2023/?f=moodle#homework).
 Sources used will be linked in the bottom of each task.
 
-Author: Heidi Paimen,
-using a Windows 10 OS on a Lenovo Thinkpad Yoga 12.
+Author: [Heidi Paimen](mailto:heidi.paimen@gmail.com)
+
+## Technology used
+
+* Windows 10 OS on a Lenovo Thinkpad Yoga 12
+* [Oracle VM VirtualBox Manager 7.0.6](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+* [Debian 11.6.0 Bullseye amd64 xfce nonfree ISO](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/)
+* ufw
+* WebGoat 8.0?
 
 Project status: incomplete, in progress.
 
