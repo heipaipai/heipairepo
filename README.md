@@ -1,19 +1,21 @@
-# One hashtag for a main header
+# Information Security
 
-Testing repository for Information Security
+This is a repository created for the [Haaga-Helia UAS](https://www.haaga-helia.fi/en) spring 2023 course [Information Security](https://terokarvinen.com/2023/information-security-2023/) by teacher [Tero Karvinen](https://terokarvinen.com/).
 
-## Two hashtags for a sub-header
+Tasks can be found in the [Information Security course](https://terokarvinen.com/2023/information-security-2023/?f=moodle#homework).
 
-Common text for paragraph.
+Author: Heidi Paimen,
+using a Windows 10 OS on a Lenovo Thinkpad Yoga 12.
 
-        Four tabs for code stuff
-   
-And this is a common paragraph again.
+Project status: incomplete, in progress.
 
-Double enters for a new paragraph.
+## Table of Contents
 
-[[link text](link source)](https://github.com/heipaipai)
-
-This is a picture
-
-![screenshot of the command](screenshot.png)
+1. [h0 Hello World](https://github.com/heipaipai/heipairepo/blob/main/template.md)
+2. [h1 First steps](https://github.com/heipaipai/heipairepo/blob/main/h1.md)
+3. [h2 Goat](https://github.com/heipaipai/heipairepo/blob/main/h2.md)
+4. [h3 TBA]()
+5. [h4 TBA]()
+6. [h5 TBA]()
+7. [h6 TBA]()
+8. [h7 TBA]()
