@@ -37,6 +37,10 @@ Double enters for a new paragraph.
 <a name="task"></a>
 ## Task
 
+Began task
+
+Ended task
+
 <a name="vtask"></a>
 ## Voluntary: Task
 
