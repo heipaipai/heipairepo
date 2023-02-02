@@ -22,7 +22,7 @@ Project status: incomplete, in progress.
 1. [h0 Hello World](https://github.com/heipaipai/heipairepo/blob/main/template.md)
 2. [h1 First steps](https://github.com/heipaipai/heipairepo/blob/main/h1.md)
 3. [h2 Goat](https://github.com/heipaipai/heipairepo/blob/main/h2.md)
-4. [h3 TBA]()
+4. [h3 Attaaack](https://github.com/heipaipai/heipairepo/blob/main/h3.md)
 5. [h4 TBA]()
 6. [h5 TBA]()
 7. [h6 TBA]()
