@@ -23,7 +23,7 @@ Project status: incomplete, in progress.
 2. [h1 First steps](https://github.com/heipaipai/heipairepo/blob/main/h1.md)
 3. [h2 Goat](https://github.com/heipaipai/heipairepo/blob/main/h2.md)
 4. [h3 Attaaack](https://github.com/heipaipai/heipairepo/blob/main/h3.md)
-5. [h4 TBA]()
+5. [h4 Hash](https://github.com/heipaipai/heipairepo/blob/main/h4.md)
 6. [h5 TBA]()
 7. [h6 TBA]()
 8. [h7 TBA]()
